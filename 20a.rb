@@ -1,4 +1,4 @@
-puts "choisi un nombre"
+puts "choisi un nombre entre 1 et 25"
 nombre = gets.chomp.to_i
 i = 1
 d = "#"
